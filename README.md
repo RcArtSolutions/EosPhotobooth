@@ -2,7 +2,7 @@
 Use an Canon EOS in a photobooth.
 
 ##Functionality
-Run in full automaic mode, only controlled by one button (a hardware-button).
+Run in full automatic mode, only controlled by one button (a hardware-button).
 
 1. Show a LiveView with countdown
 2. Take a photo
