@@ -12,7 +12,7 @@ Run in full automatic mode, only controlled by one (hardware-)button.
 #Core Functionality
 
 * Implement the Canon EOS Digital SDK to use the control the major functions of an EOS
-* Handel the APIs of Instagram, Facebook (Pages), Google-Photos to post the photos
+* Handle the APIs of Instagram, Facebook (Pages), Google-Photos to post the photos
 
 ##Additional Functionality
 
