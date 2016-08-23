@@ -1,5 +1,5 @@
 # EosPhotobooth
-Use an Canon EOS in a photobooth.
+Use an Canon EOS in a photobooth, there is linked to different social media platforms.
 
 ##Use Case
 Run in full automatic mode, only controlled by one (hardware-)button.
